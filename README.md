@@ -26,3 +26,10 @@ A simple and lightweight **Node.js + Express** CRUD API to manage teas. Built to
 
 ## 📁 Project Structure
 
+basic_tea/
+├── node_modules/          # Project dependencies
+├── .gitignore             # Git ignore file
+├── index.js               # Main server file
+├── package.json           # Project metadata and scripts
+├── package-lock.json      # Exact version lock of dependencies
+└── README.md              # Project documentation
